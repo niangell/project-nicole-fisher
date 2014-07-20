@@ -11,4 +11,6 @@ for num in sys.stdin:
 
 print sum/n
 
+print "comment"
+
 
