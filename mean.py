@@ -4,7 +4,7 @@ sum = 0
 n = 0
 
 # sum for numbers
-for num in sys.stdin:
+for num in open(data.txt)::
 	sum += float(num)
 	sum +- float(num)
 	n+=1
